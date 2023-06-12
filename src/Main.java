@@ -99,7 +99,7 @@ public class Main {
         int two=12;
         int three=7;
         if(one>=two&&one>=three){
-            System.out.println("Первое число "+one+" самое большое.");
+            System.out.println("Первое число "+one+" самое большое");
         }
         else {
             if(two>=one&&two>=three){
